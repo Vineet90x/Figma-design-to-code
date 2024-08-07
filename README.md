@@ -1,5 +1,7 @@
 # Figma-design-to-code
 
+![Figma Hero](https://api.athleticsnyc.site/wp-content/uploads/2020/08/Figma_Hero.gif)
+
 Got it! Here’s a revised README file for your GitHub repository with the same layout as before:
 
 ---
